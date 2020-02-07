@@ -1,3 +1,6 @@
+---
+redirect_from: "/1", "/ge.json", "/ge", "/gen", "/genesis", "/gn.json", "/gen.json", "/genesis.json", "/gn"
+---
 {
   "translation": "King James Version",
   "abbreviation": "kjv",
