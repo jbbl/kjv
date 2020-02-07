@@ -1,5 +1,10 @@
 ---
-redirect_from: "/1", "/ge.json", "/ge", "/gen", "/genesis", "/gn.json", "/gen.json", "/genesis.json", "/gn"
+redirect_from:
+  - /64
+  - /1john
+  - /1jn
+  - /1jhn
+  - /1j
 ---
 {
   "translation": "King James Version",
