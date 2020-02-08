@@ -1,0 +1,44 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 24,
+    "book_name": "Jeremiah",
+    "chapter": 45,
+    "name": "Jeremiah 45",
+    "verses": [
+        {
+            "chapter": 45,
+            "verse": 1,
+            "name": "Jeremiah 45:1",
+            "text": "The word that Jeremiah the prophet spake unto Baruch the son of Neriah, when he had written these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah king of Judah, saying,"
+        },
+        {
+            "chapter": 45,
+            "verse": 2,
+            "name": "Jeremiah 45:2",
+            "text": "Thus saith the Lord, the God of Israel, unto thee, O Baruch;"
+        },
+        {
+            "chapter": 45,
+            "verse": 3,
+            "name": "Jeremiah 45:3",
+            "text": "Thou didst say, Woe is me now! for the Lord hath added grief to my sorrow; I fainted in my sighing, and I find no rest."
+        },
+        {
+            "chapter": 45,
+            "verse": 4,
+            "name": "Jeremiah 45:4",
+            "text": "Thus shalt thou say unto him, The Lord saith thus; Behold, that which I have built will I break down, and that which I have planted I will pluck up, even this whole land."
+        },
+        {
+            "chapter": 45,
+            "verse": 5,
+            "name": "Jeremiah 45:5",
+            "text": "And seekest thou great things for thyself? seek them not: for, behold, I will bring evil upon all flesh, saith the Lord: but thy life will I give unto thee for a prey in all places whither thou goest. "
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 29,
+    "name": "Psalms 29",
+    "verses": [
+        {
+            "chapter": 29,
+            "verse": 1,
+            "name": "Psalms 29:1",
+            "text": "Give unto the Lord, O ye mighty, give unto the Lord glory and strength."
+        },
+        {
+            "chapter": 29,
+            "verse": 2,
+            "name": "Psalms 29:2",
+            "text": "Give unto the Lord the glory due unto his name; worship the Lord in the beauty of holiness."
+        },
+        {
+            "chapter": 29,
+            "verse": 3,
+            "name": "Psalms 29:3",
+            "text": "The voice of the Lord is upon the waters: the God of glory thundereth: the Lord is upon many waters."
+        },
+        {
+            "chapter": 29,
+            "verse": 4,
+            "name": "Psalms 29:4",
+            "text": "The voice of the Lord is powerful; the voice of the Lord is full of majesty."
+        },
+        {
+            "chapter": 29,
+            "verse": 5,
+            "name": "Psalms 29:5",
+            "text": "The voice of the Lord breaketh the cedars; yea, the Lord breaketh the cedars of Lebanon."
+        },
+        {
+            "chapter": 29,
+            "verse": 6,
+            "name": "Psalms 29:6",
+            "text": "He maketh them also to skip like a calf; Lebanon and Sirion like a young unicorn."
+        },
+        {
+            "chapter": 29,
+            "verse": 7,
+            "name": "Psalms 29:7",
+            "text": "The voice of the Lord divideth the flames of fire."
+        },
+        {
+            "chapter": 29,
+            "verse": 8,
+            "name": "Psalms 29:8",
+            "text": "The voice of the Lord shaketh the wilderness; the Lord shaketh the wilderness of Kadesh."
+        },
+        {
+            "chapter": 29,
+            "verse": 9,
+            "name": "Psalms 29:9",
+            "text": "The voice of the Lord maketh the hinds to calve, and discovereth the forests: and in his temple doth every one speak of his glory."
+        },
+        {
+            "chapter": 29,
+            "verse": 10,
+            "name": "Psalms 29:10",
+            "text": "The Lord sitteth upon the flood; yea, the Lord sitteth King for ever."
+        },
+        {
+            "chapter": 29,
+            "verse": 11,
+            "name": "Psalms 29:11",
+            "text": "The Lord will give strength unto his people; the Lord will bless his people with peace. "
+        }
+    ]
+}

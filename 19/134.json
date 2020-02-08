@@ -1,0 +1,32 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 134,
+    "name": "Psalms 134",
+    "verses": [
+        {
+            "chapter": 134,
+            "verse": 1,
+            "name": "Psalms 134:1",
+            "text": "Behold, bless ye the Lord, all ye servants of the Lord, which by night stand in the house of the Lord."
+        },
+        {
+            "chapter": 134,
+            "verse": 2,
+            "name": "Psalms 134:2",
+            "text": "Lift up your hands in the sanctuary, and bless the Lord."
+        },
+        {
+            "chapter": 134,
+            "verse": 3,
+            "name": "Psalms 134:3",
+            "text": "The Lord that made heaven and earth bless thee out of Zion. "
+        }
+    ]
+}

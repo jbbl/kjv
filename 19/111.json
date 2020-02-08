@@ -1,0 +1,74 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 111,
+    "name": "Psalms 111",
+    "verses": [
+        {
+            "chapter": 111,
+            "verse": 1,
+            "name": "Psalms 111:1",
+            "text": "Praise ye the Lord. I will praise the Lord with my whole heart, in the assembly of the upright, and in the congregation."
+        },
+        {
+            "chapter": 111,
+            "verse": 2,
+            "name": "Psalms 111:2",
+            "text": "The works of the Lord are great, sought out of all them that have pleasure therein."
+        },
+        {
+            "chapter": 111,
+            "verse": 3,
+            "name": "Psalms 111:3",
+            "text": "His work is honourable and glorious: and his righteousness endureth for ever."
+        },
+        {
+            "chapter": 111,
+            "verse": 4,
+            "name": "Psalms 111:4",
+            "text": "He hath made his wonderful works to be remembered: the Lord is gracious and full of compassion."
+        },
+        {
+            "chapter": 111,
+            "verse": 5,
+            "name": "Psalms 111:5",
+            "text": "He hath given meat unto them that fear him: he will ever be mindful of his covenant."
+        },
+        {
+            "chapter": 111,
+            "verse": 6,
+            "name": "Psalms 111:6",
+            "text": "He hath shewed his people the power of his works, that he may give them the heritage of the heathen."
+        },
+        {
+            "chapter": 111,
+            "verse": 7,
+            "name": "Psalms 111:7",
+            "text": "The works of his hands are verity and judgment; all his commandments are sure."
+        },
+        {
+            "chapter": 111,
+            "verse": 8,
+            "name": "Psalms 111:8",
+            "text": "They stand fast for ever and ever, and are done in truth and uprightness."
+        },
+        {
+            "chapter": 111,
+            "verse": 9,
+            "name": "Psalms 111:9",
+            "text": "He sent redemption unto his people: he hath commanded his covenant for ever: holy and reverend is his name."
+        },
+        {
+            "chapter": 111,
+            "verse": 10,
+            "name": "Psalms 111:10",
+            "text": "The fear of the Lord is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endureth for ever. "
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 126,
+    "name": "Psalms 126",
+    "verses": [
+        {
+            "chapter": 126,
+            "verse": 1,
+            "name": "Psalms 126:1",
+            "text": "When the Lord turned again the captivity of Zion, we were like them that dream."
+        },
+        {
+            "chapter": 126,
+            "verse": 2,
+            "name": "Psalms 126:2",
+            "text": "Then was our mouth filled with laughter, and our tongue with singing: then said they among the heathen, The Lord hath done great things for them."
+        },
+        {
+            "chapter": 126,
+            "verse": 3,
+            "name": "Psalms 126:3",
+            "text": "The Lord hath done great things for us; whereof we are glad."
+        },
+        {
+            "chapter": 126,
+            "verse": 4,
+            "name": "Psalms 126:4",
+            "text": "Turn again our captivity, O Lord, as the streams in the south."
+        },
+        {
+            "chapter": 126,
+            "verse": 5,
+            "name": "Psalms 126:5",
+            "text": "They that sow in tears shall reap in joy."
+        },
+        {
+            "chapter": 126,
+            "verse": 6,
+            "name": "Psalms 126:6",
+            "text": "He that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves with him. "
+        }
+    ]
+}

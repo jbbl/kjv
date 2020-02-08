@@ -1,0 +1,56 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 120,
+    "name": "Psalms 120",
+    "verses": [
+        {
+            "chapter": 120,
+            "verse": 1,
+            "name": "Psalms 120:1",
+            "text": "In my distress I cried unto the Lord, and he heard me."
+        },
+        {
+            "chapter": 120,
+            "verse": 2,
+            "name": "Psalms 120:2",
+            "text": "Deliver my soul, O Lord, from lying lips, and from a deceitful tongue."
+        },
+        {
+            "chapter": 120,
+            "verse": 3,
+            "name": "Psalms 120:3",
+            "text": "What shall be given unto thee? or what shall be done unto thee, thou false tongue?"
+        },
+        {
+            "chapter": 120,
+            "verse": 4,
+            "name": "Psalms 120:4",
+            "text": "Sharp arrows of the mighty, with coals of juniper."
+        },
+        {
+            "chapter": 120,
+            "verse": 5,
+            "name": "Psalms 120:5",
+            "text": "Woe is me, that I sojourn in Mesech, that I dwell in the tents of Kedar!"
+        },
+        {
+            "chapter": 120,
+            "verse": 6,
+            "name": "Psalms 120:6",
+            "text": "My soul hath long dwelt with him that hateth peace."
+        },
+        {
+            "chapter": 120,
+            "verse": 7,
+            "name": "Psalms 120:7",
+            "text": "I am for peace: but when I speak, they are for war. "
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 43,
+    "name": "Psalms 43",
+    "verses": [
+        {
+            "chapter": 43,
+            "verse": 1,
+            "name": "Psalms 43:1",
+            "text": "Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man."
+        },
+        {
+            "chapter": 43,
+            "verse": 2,
+            "name": "Psalms 43:2",
+            "text": "For thou art the God of my strength: why dost thou cast me off? why go I mourning because of the oppression of the enemy?"
+        },
+        {
+            "chapter": 43,
+            "verse": 3,
+            "name": "Psalms 43:3",
+            "text": "O send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill, and to thy tabernacles."
+        },
+        {
+            "chapter": 43,
+            "verse": 4,
+            "name": "Psalms 43:4",
+            "text": "Then will I go unto the altar of God, unto God my exceeding joy: yea, upon the harp will I praise thee, O God my God."
+        },
+        {
+            "chapter": 43,
+            "verse": 5,
+            "name": "Psalms 43:5",
+            "text": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope in God: for I shall yet praise him, who is the health of my countenance, and my God. "
+        }
+    ]
+}

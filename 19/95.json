@@ -1,0 +1,80 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 95,
+    "name": "Psalms 95",
+    "verses": [
+        {
+            "chapter": 95,
+            "verse": 1,
+            "name": "Psalms 95:1",
+            "text": "O come, let us sing unto the Lord: let us make a joyful noise to the rock of our salvation."
+        },
+        {
+            "chapter": 95,
+            "verse": 2,
+            "name": "Psalms 95:2",
+            "text": "Let us come before his presence with thanksgiving, and make a joyful noise unto him with psalms."
+        },
+        {
+            "chapter": 95,
+            "verse": 3,
+            "name": "Psalms 95:3",
+            "text": "For the Lord is a great God, and a great King above all gods."
+        },
+        {
+            "chapter": 95,
+            "verse": 4,
+            "name": "Psalms 95:4",
+            "text": "In his hand are the deep places of the earth: the strength of the hills is his also."
+        },
+        {
+            "chapter": 95,
+            "verse": 5,
+            "name": "Psalms 95:5",
+            "text": "The sea is his, and he made it: and his hands formed the dry land."
+        },
+        {
+            "chapter": 95,
+            "verse": 6,
+            "name": "Psalms 95:6",
+            "text": "O come, let us worship and bow down: let us kneel before the Lord our maker."
+        },
+        {
+            "chapter": 95,
+            "verse": 7,
+            "name": "Psalms 95:7",
+            "text": "For he is our God; and we are the people of his pasture, and the sheep of his hand. To day if ye will hear his voice,"
+        },
+        {
+            "chapter": 95,
+            "verse": 8,
+            "name": "Psalms 95:8",
+            "text": "Harden not your heart, as in the provocation, and as in the day of temptation in the wilderness:"
+        },
+        {
+            "chapter": 95,
+            "verse": 9,
+            "name": "Psalms 95:9",
+            "text": "When your fathers tempted me, proved me, and saw my work."
+        },
+        {
+            "chapter": 95,
+            "verse": 10,
+            "name": "Psalms 95:10",
+            "text": "Forty years long was I grieved with this generation, and said, It is a people that do err in their heart, and they have not known my ways:"
+        },
+        {
+            "chapter": 95,
+            "verse": 11,
+            "name": "Psalms 95:11",
+            "text": "Unto whom I sware in my wrath that they should not enter into my rest. "
+        }
+    ]
+}

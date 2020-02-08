@@ -1,0 +1,74 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 64,
+    "name": "Psalms 64",
+    "verses": [
+        {
+            "chapter": 64,
+            "verse": 1,
+            "name": "Psalms 64:1",
+            "text": "Hear my voice, O God, in my prayer: preserve my life from fear of the enemy."
+        },
+        {
+            "chapter": 64,
+            "verse": 2,
+            "name": "Psalms 64:2",
+            "text": "Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:"
+        },
+        {
+            "chapter": 64,
+            "verse": 3,
+            "name": "Psalms 64:3",
+            "text": "Who whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words:"
+        },
+        {
+            "chapter": 64,
+            "verse": 4,
+            "name": "Psalms 64:4",
+            "text": "That they may shoot in secret at the perfect: suddenly do they shoot at him, and fear not."
+        },
+        {
+            "chapter": 64,
+            "verse": 5,
+            "name": "Psalms 64:5",
+            "text": "They encourage themselves in an evil matter: they commune of laying snares privily; they say, Who shall see them?"
+        },
+        {
+            "chapter": 64,
+            "verse": 6,
+            "name": "Psalms 64:6",
+            "text": "They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep."
+        },
+        {
+            "chapter": 64,
+            "verse": 7,
+            "name": "Psalms 64:7",
+            "text": "But God shall shoot at them with an arrow; suddenly shall they be wounded."
+        },
+        {
+            "chapter": 64,
+            "verse": 8,
+            "name": "Psalms 64:8",
+            "text": "So they shall make their own tongue to fall upon themselves: all that see them shall flee away."
+        },
+        {
+            "chapter": 64,
+            "verse": 9,
+            "name": "Psalms 64:9",
+            "text": "And all men shall fear, and shall declare the work of God; for they shall wisely consider of his doing."
+        },
+        {
+            "chapter": 64,
+            "verse": 10,
+            "name": "Psalms 64:10",
+            "text": "The righteous shall be glad in the Lord, and shall trust in him; and all the upright in heart shall glory. "
+        }
+    ]
+}

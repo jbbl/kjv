@@ -1,0 +1,26 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 117,
+    "name": "Psalms 117",
+    "verses": [
+        {
+            "chapter": 117,
+            "verse": 1,
+            "name": "Psalms 117:1",
+            "text": "O praise the Lord, all ye nations: praise him, all ye people."
+        },
+        {
+            "chapter": 117,
+            "verse": 2,
+            "name": "Psalms 117:2",
+            "text": "For his merciful kindness is great toward us: and the truth of the Lord endureth for ever. Praise ye the Lord. "
+        }
+    ]
+}

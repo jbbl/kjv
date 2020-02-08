@@ -1,0 +1,68 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 20,
+    "name": "Psalms 20",
+    "verses": [
+        {
+            "chapter": 20,
+            "verse": 1,
+            "name": "Psalms 20:1",
+            "text": "The Lord hear thee in the day of trouble; the name of the God of Jacob defend thee;"
+        },
+        {
+            "chapter": 20,
+            "verse": 2,
+            "name": "Psalms 20:2",
+            "text": "Send thee help from the sanctuary, and strengthen thee out of Zion;"
+        },
+        {
+            "chapter": 20,
+            "verse": 3,
+            "name": "Psalms 20:3",
+            "text": "Remember all thy offerings, and accept thy burnt sacrifice; Selah."
+        },
+        {
+            "chapter": 20,
+            "verse": 4,
+            "name": "Psalms 20:4",
+            "text": "Grant thee according to thine own heart, and fulfil all thy counsel."
+        },
+        {
+            "chapter": 20,
+            "verse": 5,
+            "name": "Psalms 20:5",
+            "text": "We will rejoice in thy salvation, and in the name of our God we will set up our banners: the Lord fulfil all thy petitions."
+        },
+        {
+            "chapter": 20,
+            "verse": 6,
+            "name": "Psalms 20:6",
+            "text": "Now know I that the Lord saveth his anointed; he will hear him from his holy heaven with the saving strength of his right hand."
+        },
+        {
+            "chapter": 20,
+            "verse": 7,
+            "name": "Psalms 20:7",
+            "text": "Some trust in chariots, and some in horses: but we will remember the name of the Lord our God."
+        },
+        {
+            "chapter": 20,
+            "verse": 8,
+            "name": "Psalms 20:8",
+            "text": "They are brought down and fallen: but we are risen, and stand upright."
+        },
+        {
+            "chapter": 20,
+            "verse": 9,
+            "name": "Psalms 20:9",
+            "text": "Save, Lord: let the king hear us when we call. "
+        }
+    ]
+}

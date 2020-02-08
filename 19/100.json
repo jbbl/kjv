@@ -1,0 +1,44 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 100,
+    "name": "Psalms 100",
+    "verses": [
+        {
+            "chapter": 100,
+            "verse": 1,
+            "name": "Psalms 100:1",
+            "text": "Make a joyful noise unto the Lord, all ye lands."
+        },
+        {
+            "chapter": 100,
+            "verse": 2,
+            "name": "Psalms 100:2",
+            "text": "Serve the Lord with gladness: come before his presence with singing."
+        },
+        {
+            "chapter": 100,
+            "verse": 3,
+            "name": "Psalms 100:3",
+            "text": "Know ye that the Lord he is God: it is he that hath made us, and not we ourselves; we are his people, and the sheep of his pasture."
+        },
+        {
+            "chapter": 100,
+            "verse": 4,
+            "name": "Psalms 100:4",
+            "text": "Enter into his gates with thanksgiving, and into his courts with praise: be thankful unto him, and bless his name."
+        },
+        {
+            "chapter": 100,
+            "verse": 5,
+            "name": "Psalms 100:5",
+            "text": "For the Lord is good; his mercy is everlasting; and his truth endureth to all generations. "
+        }
+    ]
+}

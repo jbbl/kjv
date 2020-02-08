@@ -1,0 +1,446 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 78,
+    "name": "Psalms 78",
+    "verses": [
+        {
+            "chapter": 78,
+            "verse": 1,
+            "name": "Psalms 78:1",
+            "text": "Give ear, O my people, to my law: incline your ears to the words of my mouth."
+        },
+        {
+            "chapter": 78,
+            "verse": 2,
+            "name": "Psalms 78:2",
+            "text": "I will open my mouth in a parable: I will utter dark sayings of old:"
+        },
+        {
+            "chapter": 78,
+            "verse": 3,
+            "name": "Psalms 78:3",
+            "text": "Which we have heard and known, and our fathers have told us."
+        },
+        {
+            "chapter": 78,
+            "verse": 4,
+            "name": "Psalms 78:4",
+            "text": "We will not hide them from their children, shewing to the generation to come the praises of the Lord, and his strength, and his wonderful works that he hath done."
+        },
+        {
+            "chapter": 78,
+            "verse": 5,
+            "name": "Psalms 78:5",
+            "text": "For he established a testimony in Jacob, and appointed a law in Israel, which he commanded our fathers, that they should make them known to their children:"
+        },
+        {
+            "chapter": 78,
+            "verse": 6,
+            "name": "Psalms 78:6",
+            "text": "That the generation to come might know them, even the children which should be born; who should arise and declare them to their children:"
+        },
+        {
+            "chapter": 78,
+            "verse": 7,
+            "name": "Psalms 78:7",
+            "text": "That they might set their hope in God, and not forget the works of God, but keep his commandments:"
+        },
+        {
+            "chapter": 78,
+            "verse": 8,
+            "name": "Psalms 78:8",
+            "text": "And might not be as their fathers, a stubborn and rebellious generation; a generation that set not their heart aright, and whose spirit was not stedfast with God."
+        },
+        {
+            "chapter": 78,
+            "verse": 9,
+            "name": "Psalms 78:9",
+            "text": "The children of Ephraim, being armed, and carrying bows, turned back in the day of battle."
+        },
+        {
+            "chapter": 78,
+            "verse": 10,
+            "name": "Psalms 78:10",
+            "text": "They kept not the covenant of God, and refused to walk in his law;"
+        },
+        {
+            "chapter": 78,
+            "verse": 11,
+            "name": "Psalms 78:11",
+            "text": "And forgat his works, and his wonders that he had shewed them."
+        },
+        {
+            "chapter": 78,
+            "verse": 12,
+            "name": "Psalms 78:12",
+            "text": "Marvellous things did he in the sight of their fathers, in the land of Egypt, in the field of Zoan."
+        },
+        {
+            "chapter": 78,
+            "verse": 13,
+            "name": "Psalms 78:13",
+            "text": "He divided the sea, and caused them to pass through; and he made the waters to stand as an heap."
+        },
+        {
+            "chapter": 78,
+            "verse": 14,
+            "name": "Psalms 78:14",
+            "text": "In the daytime also he led them with a cloud, and all the night with a light of fire."
+        },
+        {
+            "chapter": 78,
+            "verse": 15,
+            "name": "Psalms 78:15",
+            "text": "He clave the rocks in the wilderness, and gave them drink as out of the great depths."
+        },
+        {
+            "chapter": 78,
+            "verse": 16,
+            "name": "Psalms 78:16",
+            "text": "He brought streams also out of the rock, and caused waters to run down like rivers."
+        },
+        {
+            "chapter": 78,
+            "verse": 17,
+            "name": "Psalms 78:17",
+            "text": "And they sinned yet more against him by provoking the most High in the wilderness."
+        },
+        {
+            "chapter": 78,
+            "verse": 18,
+            "name": "Psalms 78:18",
+            "text": "And they tempted God in their heart by asking meat for their lust."
+        },
+        {
+            "chapter": 78,
+            "verse": 19,
+            "name": "Psalms 78:19",
+            "text": "Yea, they spake against God; they said, Can God furnish a table in the wilderness?"
+        },
+        {
+            "chapter": 78,
+            "verse": 20,
+            "name": "Psalms 78:20",
+            "text": "Behold, he smote the rock, that the waters gushed out, and the streams overflowed; can he give bread also? can he provide flesh for his people?"
+        },
+        {
+            "chapter": 78,
+            "verse": 21,
+            "name": "Psalms 78:21",
+            "text": "Therefore the Lord heard this, and was wroth: so a fire was kindled against Jacob, and anger also came up against Israel;"
+        },
+        {
+            "chapter": 78,
+            "verse": 22,
+            "name": "Psalms 78:22",
+            "text": "Because they believed not in God, and trusted not in his salvation:"
+        },
+        {
+            "chapter": 78,
+            "verse": 23,
+            "name": "Psalms 78:23",
+            "text": "Though he had commanded the clouds from above, and opened the doors of heaven,"
+        },
+        {
+            "chapter": 78,
+            "verse": 24,
+            "name": "Psalms 78:24",
+            "text": "And had rained down manna upon them to eat, and had given them of the corn of heaven."
+        },
+        {
+            "chapter": 78,
+            "verse": 25,
+            "name": "Psalms 78:25",
+            "text": "Man did eat angels\u2019 food: he sent them meat to the full."
+        },
+        {
+            "chapter": 78,
+            "verse": 26,
+            "name": "Psalms 78:26",
+            "text": "He caused an east wind to blow in the heaven: and by his power he brought in the south wind."
+        },
+        {
+            "chapter": 78,
+            "verse": 27,
+            "name": "Psalms 78:27",
+            "text": "He rained flesh also upon them as dust, and feathered fowls like as the sand of the sea:"
+        },
+        {
+            "chapter": 78,
+            "verse": 28,
+            "name": "Psalms 78:28",
+            "text": "And he let it fall in the midst of their camp, round about their habitations."
+        },
+        {
+            "chapter": 78,
+            "verse": 29,
+            "name": "Psalms 78:29",
+            "text": "So they did eat, and were well filled: for he gave them their own desire;"
+        },
+        {
+            "chapter": 78,
+            "verse": 30,
+            "name": "Psalms 78:30",
+            "text": "They were not estranged from their lust. But while their meat was yet in their mouths,"
+        },
+        {
+            "chapter": 78,
+            "verse": 31,
+            "name": "Psalms 78:31",
+            "text": "The wrath of God came upon them, and slew the fattest of them, and smote down the chosen men of Israel."
+        },
+        {
+            "chapter": 78,
+            "verse": 32,
+            "name": "Psalms 78:32",
+            "text": "For all this they sinned still, and believed not for his wondrous works."
+        },
+        {
+            "chapter": 78,
+            "verse": 33,
+            "name": "Psalms 78:33",
+            "text": "Therefore their days did he consume in vanity, and their years in trouble."
+        },
+        {
+            "chapter": 78,
+            "verse": 34,
+            "name": "Psalms 78:34",
+            "text": "When he slew them, then they sought him: and they returned and enquired early after God."
+        },
+        {
+            "chapter": 78,
+            "verse": 35,
+            "name": "Psalms 78:35",
+            "text": "And they remembered that God was their rock, and the high God their redeemer."
+        },
+        {
+            "chapter": 78,
+            "verse": 36,
+            "name": "Psalms 78:36",
+            "text": "Nevertheless they did flatter him with their mouth, and they lied unto him with their tongues."
+        },
+        {
+            "chapter": 78,
+            "verse": 37,
+            "name": "Psalms 78:37",
+            "text": "For their heart was not right with him, neither were they stedfast in his covenant."
+        },
+        {
+            "chapter": 78,
+            "verse": 38,
+            "name": "Psalms 78:38",
+            "text": "But he, being full of compassion, forgave their iniquity, and destroyed them not: yea, many a time turned he his anger away, and did not stir up all his wrath."
+        },
+        {
+            "chapter": 78,
+            "verse": 39,
+            "name": "Psalms 78:39",
+            "text": "For he remembered that they were but flesh; a wind that passeth away, and cometh not again."
+        },
+        {
+            "chapter": 78,
+            "verse": 40,
+            "name": "Psalms 78:40",
+            "text": "How oft did they provoke him in the wilderness, and grieve him in the desert!"
+        },
+        {
+            "chapter": 78,
+            "verse": 41,
+            "name": "Psalms 78:41",
+            "text": "Yea, they turned back and tempted God, and limited the Holy One of Israel."
+        },
+        {
+            "chapter": 78,
+            "verse": 42,
+            "name": "Psalms 78:42",
+            "text": "They remembered not his hand, nor the day when he delivered them from the enemy."
+        },
+        {
+            "chapter": 78,
+            "verse": 43,
+            "name": "Psalms 78:43",
+            "text": "How he had wrought his signs in Egypt, and his wonders in the field of Zoan:"
+        },
+        {
+            "chapter": 78,
+            "verse": 44,
+            "name": "Psalms 78:44",
+            "text": "And had turned their rivers into blood; and their floods, that they could not drink."
+        },
+        {
+            "chapter": 78,
+            "verse": 45,
+            "name": "Psalms 78:45",
+            "text": "He sent divers sorts of flies among them, which devoured them; and frogs, which destroyed them."
+        },
+        {
+            "chapter": 78,
+            "verse": 46,
+            "name": "Psalms 78:46",
+            "text": "He gave also their increase unto the caterpiller, and their labour unto the locust."
+        },
+        {
+            "chapter": 78,
+            "verse": 47,
+            "name": "Psalms 78:47",
+            "text": "He destroyed their vines with hail, and their sycomore trees with frost."
+        },
+        {
+            "chapter": 78,
+            "verse": 48,
+            "name": "Psalms 78:48",
+            "text": "He gave up their cattle also to the hail, and their flocks to hot thunderbolts."
+        },
+        {
+            "chapter": 78,
+            "verse": 49,
+            "name": "Psalms 78:49",
+            "text": "He cast upon them the fierceness of his anger, wrath, and indignation, and trouble, by sending evil angels among them."
+        },
+        {
+            "chapter": 78,
+            "verse": 50,
+            "name": "Psalms 78:50",
+            "text": "He made a way to his anger; he spared not their soul from death, but gave their life over to the pestilence;"
+        },
+        {
+            "chapter": 78,
+            "verse": 51,
+            "name": "Psalms 78:51",
+            "text": "And smote all the firstborn in Egypt; the chief of their strength in the tabernacles of Ham:"
+        },
+        {
+            "chapter": 78,
+            "verse": 52,
+            "name": "Psalms 78:52",
+            "text": "But made his own people to go forth like sheep, and guided them in the wilderness like a flock."
+        },
+        {
+            "chapter": 78,
+            "verse": 53,
+            "name": "Psalms 78:53",
+            "text": "And he led them on safely, so that they feared not: but the sea overwhelmed their enemies."
+        },
+        {
+            "chapter": 78,
+            "verse": 54,
+            "name": "Psalms 78:54",
+            "text": "And he brought them to the border of his sanctuary, even to this mountain, which his right hand had purchased."
+        },
+        {
+            "chapter": 78,
+            "verse": 55,
+            "name": "Psalms 78:55",
+            "text": "He cast out the heathen also before them, and divided them an inheritance by line, and made the tribes of Israel to dwell in their tents."
+        },
+        {
+            "chapter": 78,
+            "verse": 56,
+            "name": "Psalms 78:56",
+            "text": "Yet they tempted and provoked the most high God, and kept not his testimonies:"
+        },
+        {
+            "chapter": 78,
+            "verse": 57,
+            "name": "Psalms 78:57",
+            "text": "But turned back, and dealt unfaithfully like their fathers: they were turned aside like a deceitful bow."
+        },
+        {
+            "chapter": 78,
+            "verse": 58,
+            "name": "Psalms 78:58",
+            "text": "For they provoked him to anger with their high places, and moved him to jealousy with their graven images."
+        },
+        {
+            "chapter": 78,
+            "verse": 59,
+            "name": "Psalms 78:59",
+            "text": "When God heard this, he was wroth, and greatly abhorred Israel:"
+        },
+        {
+            "chapter": 78,
+            "verse": 60,
+            "name": "Psalms 78:60",
+            "text": "So that he forsook the tabernacle of Shiloh, the tent which he placed among men;"
+        },
+        {
+            "chapter": 78,
+            "verse": 61,
+            "name": "Psalms 78:61",
+            "text": "And delivered his strength into captivity, and his glory into the enemy\u2019s hand."
+        },
+        {
+            "chapter": 78,
+            "verse": 62,
+            "name": "Psalms 78:62",
+            "text": "He gave his people over also unto the sword; and was wroth with his inheritance."
+        },
+        {
+            "chapter": 78,
+            "verse": 63,
+            "name": "Psalms 78:63",
+            "text": "The fire consumed their young men; and their maidens were not given to marriage."
+        },
+        {
+            "chapter": 78,
+            "verse": 64,
+            "name": "Psalms 78:64",
+            "text": "Their priests fell by the sword; and their widows made no lamentation."
+        },
+        {
+            "chapter": 78,
+            "verse": 65,
+            "name": "Psalms 78:65",
+            "text": "Then the Lord awaked as one out of sleep, and like a mighty man that shouteth by reason of wine."
+        },
+        {
+            "chapter": 78,
+            "verse": 66,
+            "name": "Psalms 78:66",
+            "text": "And he smote his enemies in the hinder parts: he put them to a perpetual reproach."
+        },
+        {
+            "chapter": 78,
+            "verse": 67,
+            "name": "Psalms 78:67",
+            "text": "Moreover he refused the tabernacle of Joseph, and chose not the tribe of Ephraim:"
+        },
+        {
+            "chapter": 78,
+            "verse": 68,
+            "name": "Psalms 78:68",
+            "text": "But chose the tribe of Judah, the mount Zion which he loved."
+        },
+        {
+            "chapter": 78,
+            "verse": 69,
+            "name": "Psalms 78:69",
+            "text": "And he built his sanctuary like high palaces, like the earth which he hath established for ever."
+        },
+        {
+            "chapter": 78,
+            "verse": 70,
+            "name": "Psalms 78:70",
+            "text": "He chose David also his servant, and took him from the sheepfolds:"
+        },
+        {
+            "chapter": 78,
+            "verse": 71,
+            "name": "Psalms 78:71",
+            "text": "From following the ewes great with young he brought him to feed Jacob his people, and Israel his inheritance."
+        },
+        {
+            "chapter": 78,
+            "verse": 72,
+            "name": "Psalms 78:72",
+            "text": "So he fed them according to the integrity of his heart; and guided them by the skilfulness of his hands. "
+        }
+    ]
+}

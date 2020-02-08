@@ -1,0 +1,62 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 121,
+    "name": "Psalms 121",
+    "verses": [
+        {
+            "chapter": 121,
+            "verse": 1,
+            "name": "Psalms 121:1",
+            "text": "I will lift up mine eyes unto the hills, from whence cometh my help."
+        },
+        {
+            "chapter": 121,
+            "verse": 2,
+            "name": "Psalms 121:2",
+            "text": "My help cometh from the Lord, which made heaven and earth."
+        },
+        {
+            "chapter": 121,
+            "verse": 3,
+            "name": "Psalms 121:3",
+            "text": "He will not suffer thy foot to be moved: he that keepeth thee will not slumber."
+        },
+        {
+            "chapter": 121,
+            "verse": 4,
+            "name": "Psalms 121:4",
+            "text": "Behold, he that keepeth Israel shall neither slumber nor sleep."
+        },
+        {
+            "chapter": 121,
+            "verse": 5,
+            "name": "Psalms 121:5",
+            "text": "The Lord is thy keeper: the Lord is thy shade upon thy right hand."
+        },
+        {
+            "chapter": 121,
+            "verse": 6,
+            "name": "Psalms 121:6",
+            "text": "The sun shall not smite thee by day, nor the moon by night."
+        },
+        {
+            "chapter": 121,
+            "verse": 7,
+            "name": "Psalms 121:7",
+            "text": "The Lord shall preserve thee from all evil: he shall preserve thy soul."
+        },
+        {
+            "chapter": 121,
+            "verse": 8,
+            "name": "Psalms 121:8",
+            "text": "The Lord shall preserve thy going out and thy coming in from this time forth, and even for evermore. "
+        }
+    ]
+}

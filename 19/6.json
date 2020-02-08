@@ -1,0 +1,74 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 6,
+    "name": "Psalms 6",
+    "verses": [
+        {
+            "chapter": 6,
+            "verse": 1,
+            "name": "Psalms 6:1",
+            "text": "O Lord, rebuke me not in thine anger, neither chasten me in thy hot displeasure."
+        },
+        {
+            "chapter": 6,
+            "verse": 2,
+            "name": "Psalms 6:2",
+            "text": "Have mercy upon me, O Lord; for I am weak: O Lord, heal me; for my bones are vexed."
+        },
+        {
+            "chapter": 6,
+            "verse": 3,
+            "name": "Psalms 6:3",
+            "text": "My soul is also sore vexed: but thou, O Lord, how long?"
+        },
+        {
+            "chapter": 6,
+            "verse": 4,
+            "name": "Psalms 6:4",
+            "text": "Return, O Lord, deliver my soul: oh save me for thy mercies\u2019 sake."
+        },
+        {
+            "chapter": 6,
+            "verse": 5,
+            "name": "Psalms 6:5",
+            "text": "For in death there is no remembrance of thee: in the grave who shall give thee thanks?"
+        },
+        {
+            "chapter": 6,
+            "verse": 6,
+            "name": "Psalms 6:6",
+            "text": "I am weary with my groaning; all the night make I my bed to swim; I water my couch with my tears."
+        },
+        {
+            "chapter": 6,
+            "verse": 7,
+            "name": "Psalms 6:7",
+            "text": "Mine eye is consumed because of grief; it waxeth old because of all mine enemies."
+        },
+        {
+            "chapter": 6,
+            "verse": 8,
+            "name": "Psalms 6:8",
+            "text": "Depart from me, all ye workers of iniquity; for the Lord hath heard the voice of my weeping."
+        },
+        {
+            "chapter": 6,
+            "verse": 9,
+            "name": "Psalms 6:9",
+            "text": "The Lord hath heard my supplication; the Lord will receive my prayer."
+        },
+        {
+            "chapter": 6,
+            "verse": 10,
+            "name": "Psalms 6:10",
+            "text": "Let all mine enemies be ashamed and sore vexed: let them return and be ashamed suddenly. "
+        }
+    ]
+}

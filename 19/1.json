@@ -1,0 +1,50 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 1,
+    "name": "Psalms 1",
+    "verses": [
+        {
+            "chapter": 1,
+            "verse": 1,
+            "name": "Psalms 1:1",
+            "text": "Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful."
+        },
+        {
+            "chapter": 1,
+            "verse": 2,
+            "name": "Psalms 1:2",
+            "text": "But his delight is in the law of the Lord; and in his law doth he meditate day and night."
+        },
+        {
+            "chapter": 1,
+            "verse": 3,
+            "name": "Psalms 1:3",
+            "text": "And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper."
+        },
+        {
+            "chapter": 1,
+            "verse": 4,
+            "name": "Psalms 1:4",
+            "text": "The ungodly are not so: but are like the chaff which the wind driveth away."
+        },
+        {
+            "chapter": 1,
+            "verse": 5,
+            "name": "Psalms 1:5",
+            "text": "Therefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous."
+        },
+        {
+            "chapter": 1,
+            "verse": 6,
+            "name": "Psalms 1:6",
+            "text": "For the Lord knoweth the way of the righteous: but the way of the ungodly shall perish. "
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 13,
+    "name": "Psalms 13",
+    "verses": [
+        {
+            "chapter": 13,
+            "verse": 1,
+            "name": "Psalms 13:1",
+            "text": "How long wilt thou forget me, O Lord? for ever? how long wilt thou hide thy face from me?"
+        },
+        {
+            "chapter": 13,
+            "verse": 2,
+            "name": "Psalms 13:2",
+            "text": "How long shall I take counsel in my soul, having sorrow in my heart daily? how long shall mine enemy be exalted over me?"
+        },
+        {
+            "chapter": 13,
+            "verse": 3,
+            "name": "Psalms 13:3",
+            "text": "Consider and hear me, O Lord my God: lighten mine eyes, lest I sleep the sleep of death;"
+        },
+        {
+            "chapter": 13,
+            "verse": 4,
+            "name": "Psalms 13:4",
+            "text": "Lest mine enemy say, I have prevailed against him; and those that trouble me rejoice when I am moved."
+        },
+        {
+            "chapter": 13,
+            "verse": 5,
+            "name": "Psalms 13:5",
+            "text": "But I have trusted in thy mercy; my heart shall rejoice in thy salvation."
+        },
+        {
+            "chapter": 13,
+            "verse": 6,
+            "name": "Psalms 13:6",
+            "text": "I will sing unto the Lord, because he hath dealt bountifully with me. "
+        }
+    ]
+}

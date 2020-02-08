@@ -1,0 +1,44 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 70,
+    "name": "Psalms 70",
+    "verses": [
+        {
+            "chapter": 70,
+            "verse": 1,
+            "name": "Psalms 70:1",
+            "text": "Make haste, O God, to deliver me; make haste to help me, O Lord."
+        },
+        {
+            "chapter": 70,
+            "verse": 2,
+            "name": "Psalms 70:2",
+            "text": "Let them be ashamed and confounded that seek after my soul: let them be turned backward, and put to confusion, that desire my hurt."
+        },
+        {
+            "chapter": 70,
+            "verse": 3,
+            "name": "Psalms 70:3",
+            "text": "Let them be turned back for a reward of their shame that say, Aha, aha."
+        },
+        {
+            "chapter": 70,
+            "verse": 4,
+            "name": "Psalms 70:4",
+            "text": "Let all those that seek thee rejoice and be glad in thee: and let such as love thy salvation say continually, Let God be magnified."
+        },
+        {
+            "chapter": 70,
+            "verse": 5,
+            "name": "Psalms 70:5",
+            "text": "But I am poor and needy: make haste unto me, O God: thou art my help and my deliverer; O Lord, make no tarrying. "
+        }
+    ]
+}
