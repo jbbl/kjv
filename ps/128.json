@@ -1,0 +1,50 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 128,
+    "name": "Psalms 128",
+    "verses": [
+        {
+            "chapter": 128,
+            "verse": 1,
+            "name": "Psalms 128:1",
+            "text": "Blessed is every one that feareth the Lord; that walketh in his ways."
+        },
+        {
+            "chapter": 128,
+            "verse": 2,
+            "name": "Psalms 128:2",
+            "text": "For thou shalt eat the labour of thine hands: happy shalt thou be, and it shall be well with thee."
+        },
+        {
+            "chapter": 128,
+            "verse": 3,
+            "name": "Psalms 128:3",
+            "text": "Thy wife shall be as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table."
+        },
+        {
+            "chapter": 128,
+            "verse": 4,
+            "name": "Psalms 128:4",
+            "text": "Behold, that thus shall the man be blessed that feareth the Lord."
+        },
+        {
+            "chapter": 128,
+            "verse": 5,
+            "name": "Psalms 128:5",
+            "text": "The Lord shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life."
+        },
+        {
+            "chapter": 128,
+            "verse": 6,
+            "name": "Psalms 128:6",
+            "text": "Yea, thou shalt see thy children\u2019s children, and peace upon Israel. "
+        }
+    ]
+}

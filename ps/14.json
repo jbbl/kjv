@@ -1,0 +1,56 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 14,
+    "name": "Psalms 14",
+    "verses": [
+        {
+            "chapter": 14,
+            "verse": 1,
+            "name": "Psalms 14:1",
+            "text": "The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works, there is none that doeth good."
+        },
+        {
+            "chapter": 14,
+            "verse": 2,
+            "name": "Psalms 14:2",
+            "text": "The Lord looked down from heaven upon the children of men, to see if there were any that did understand, and seek God."
+        },
+        {
+            "chapter": 14,
+            "verse": 3,
+            "name": "Psalms 14:3",
+            "text": "They are all gone aside, they are all together become filthy: there is none that doeth good, no, not one."
+        },
+        {
+            "chapter": 14,
+            "verse": 4,
+            "name": "Psalms 14:4",
+            "text": "Have all the workers of iniquity no knowledge? who eat up my people as they eat bread, and call not upon the Lord."
+        },
+        {
+            "chapter": 14,
+            "verse": 5,
+            "name": "Psalms 14:5",
+            "text": "There were they in great fear: for God is in the generation of the righteous."
+        },
+        {
+            "chapter": 14,
+            "verse": 6,
+            "name": "Psalms 14:6",
+            "text": "Ye have shamed the counsel of the poor, because the Lord is his refuge."
+        },
+        {
+            "chapter": 14,
+            "verse": 7,
+            "name": "Psalms 14:7",
+            "text": "Oh that the salvation of Israel were come out of Zion! when the Lord bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be glad. "
+        }
+    ]
+}

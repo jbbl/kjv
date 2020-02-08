@@ -1,0 +1,56 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 110,
+    "name": "Psalms 110",
+    "verses": [
+        {
+            "chapter": 110,
+            "verse": 1,
+            "name": "Psalms 110:1",
+            "text": "The Lord said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool."
+        },
+        {
+            "chapter": 110,
+            "verse": 2,
+            "name": "Psalms 110:2",
+            "text": "The Lord shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies."
+        },
+        {
+            "chapter": 110,
+            "verse": 3,
+            "name": "Psalms 110:3",
+            "text": "Thy people shall be willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth."
+        },
+        {
+            "chapter": 110,
+            "verse": 4,
+            "name": "Psalms 110:4",
+            "text": "The Lord hath sworn, and will not repent, Thou art a priest for ever after the order of Melchizedek."
+        },
+        {
+            "chapter": 110,
+            "verse": 5,
+            "name": "Psalms 110:5",
+            "text": "The Lord at thy right hand shall strike through kings in the day of his wrath."
+        },
+        {
+            "chapter": 110,
+            "verse": 6,
+            "name": "Psalms 110:6",
+            "text": "He shall judge among the heathen, he shall fill the places with the dead bodies; he shall wound the heads over many countries."
+        },
+        {
+            "chapter": 110,
+            "verse": 7,
+            "name": "Psalms 110:7",
+            "text": "He shall drink of the brook in the way: therefore shall he lift up the head. "
+        }
+    ]
+}

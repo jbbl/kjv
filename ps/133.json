@@ -1,0 +1,32 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 133,
+    "name": "Psalms 133",
+    "verses": [
+        {
+            "chapter": 133,
+            "verse": 1,
+            "name": "Psalms 133:1",
+            "text": "Behold, how good and how pleasant it is for brethren to dwell together in unity!"
+        },
+        {
+            "chapter": 133,
+            "verse": 2,
+            "name": "Psalms 133:2",
+            "text": "It is like the precious ointment upon the head, that ran down upon the beard, even Aaron\u2019s beard: that went down to the skirts of his garments;"
+        },
+        {
+            "chapter": 133,
+            "verse": 3,
+            "name": "Psalms 133:3",
+            "text": "As the dew of Hermon, and as the dew that descended upon the mountains of Zion: for there the Lord commanded the blessing, even life for evermore. "
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 123,
+    "name": "Psalms 123",
+    "verses": [
+        {
+            "chapter": 123,
+            "verse": 1,
+            "name": "Psalms 123:1",
+            "text": "Unto thee lift I up mine eyes, O thou that dwellest in the heavens."
+        },
+        {
+            "chapter": 123,
+            "verse": 2,
+            "name": "Psalms 123:2",
+            "text": "Behold, as the eyes of servants look unto the hand of their masters, and as the eyes of a maiden unto the hand of her mistress; so our eyes wait upon the Lord our God, until that he have mercy upon us."
+        },
+        {
+            "chapter": 123,
+            "verse": 3,
+            "name": "Psalms 123:3",
+            "text": "Have mercy upon us, O Lord, have mercy upon us: for we are exceedingly filled with contempt."
+        },
+        {
+            "chapter": 123,
+            "verse": 4,
+            "name": "Psalms 123:4",
+            "text": "Our soul is exceedingly filled with the scorning of those that are at ease, and with the contempt of the proud. "
+        }
+    ]
+}

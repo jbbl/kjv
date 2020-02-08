@@ -1,0 +1,80 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 42,
+    "name": "Psalms 42",
+    "verses": [
+        {
+            "chapter": 42,
+            "verse": 1,
+            "name": "Psalms 42:1",
+            "text": "As the hart panteth after the water brooks, so panteth my soul after thee, O God."
+        },
+        {
+            "chapter": 42,
+            "verse": 2,
+            "name": "Psalms 42:2",
+            "text": "My soul thirsteth for God, for the living God: when shall I come and appear before God?"
+        },
+        {
+            "chapter": 42,
+            "verse": 3,
+            "name": "Psalms 42:3",
+            "text": "My tears have been my meat day and night, while they continually say unto me, Where is thy God?"
+        },
+        {
+            "chapter": 42,
+            "verse": 4,
+            "name": "Psalms 42:4",
+            "text": "When I remember these things, I pour out my soul in me: for I had gone with the multitude, I went with them to the house of God, with the voice of joy and praise, with a multitude that kept holyday."
+        },
+        {
+            "chapter": 42,
+            "verse": 5,
+            "name": "Psalms 42:5",
+            "text": "Why art thou cast down, O my soul? and why art thou disquieted in me? hope thou in God: for I shall yet praise him for the help of his countenance."
+        },
+        {
+            "chapter": 42,
+            "verse": 6,
+            "name": "Psalms 42:6",
+            "text": "O my God, my soul is cast down within me: therefore will I remember thee from the land of Jordan, and of the Hermonites, from the hill Mizar."
+        },
+        {
+            "chapter": 42,
+            "verse": 7,
+            "name": "Psalms 42:7",
+            "text": "Deep calleth unto deep at the noise of thy waterspouts: all thy waves and thy billows are gone over me."
+        },
+        {
+            "chapter": 42,
+            "verse": 8,
+            "name": "Psalms 42:8",
+            "text": "Yet the Lord will command his lovingkindness in the daytime, and in the night his song shall be with me, and my prayer unto the God of my life."
+        },
+        {
+            "chapter": 42,
+            "verse": 9,
+            "name": "Psalms 42:9",
+            "text": "I will say unto God my rock, Why hast thou forgotten me? why go I mourning because of the oppression of the enemy?"
+        },
+        {
+            "chapter": 42,
+            "verse": 10,
+            "name": "Psalms 42:10",
+            "text": "As with a sword in my bones, mine enemies reproach me; while they say daily unto me, Where is thy God?"
+        },
+        {
+            "chapter": 42,
+            "verse": 11,
+            "name": "Psalms 42:11",
+            "text": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope thou in God: for I shall yet praise him, who is the health of my countenance, and my God. "
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 46,
+    "book_name": "1 Corinthians",
+    "chapter": 13,
+    "name": "1 Corinthians 13",
+    "verses": [
+        {
+            "chapter": 13,
+            "verse": 1,
+            "name": "1 Corinthians 13:1",
+            "text": "Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal."
+        },
+        {
+            "chapter": 13,
+            "verse": 2,
+            "name": "1 Corinthians 13:2",
+            "text": "And though I have the gift of prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing."
+        },
+        {
+            "chapter": 13,
+            "verse": 3,
+            "name": "1 Corinthians 13:3",
+            "text": "And though I bestow all my goods to feed the poor, and though I give my body to be burned, and have not charity, it profiteth me nothing."
+        },
+        {
+            "chapter": 13,
+            "verse": 4,
+            "name": "1 Corinthians 13:4",
+            "text": "Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,"
+        },
+        {
+            "chapter": 13,
+            "verse": 5,
+            "name": "1 Corinthians 13:5",
+            "text": "Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil;"
+        },
+        {
+            "chapter": 13,
+            "verse": 6,
+            "name": "1 Corinthians 13:6",
+            "text": "Rejoiceth not in iniquity, but rejoiceth in the truth;"
+        },
+        {
+            "chapter": 13,
+            "verse": 7,
+            "name": "1 Corinthians 13:7",
+            "text": "Beareth all things, believeth all things, hopeth all things, endureth all things."
+        },
+        {
+            "chapter": 13,
+            "verse": 8,
+            "name": "1 Corinthians 13:8",
+            "text": "Charity never faileth: but whether there be prophecies, they shall fail; whether there be tongues, they shall cease; whether there be knowledge, it shall vanish away."
+        },
+        {
+            "chapter": 13,
+            "verse": 9,
+            "name": "1 Corinthians 13:9",
+            "text": "For we know in part, and we prophesy in part."
+        },
+        {
+            "chapter": 13,
+            "verse": 10,
+            "name": "1 Corinthians 13:10",
+            "text": "But when that which is perfect is come, then that which is in part shall be done away."
+        },
+        {
+            "chapter": 13,
+            "verse": 11,
+            "name": "1 Corinthians 13:11",
+            "text": "When I was a child, I spake as a child, I understood as a child, I thought as a child: but when I became a man, I put away childish things."
+        },
+        {
+            "chapter": 13,
+            "verse": 12,
+            "name": "1 Corinthians 13:12",
+            "text": "For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known."
+        },
+        {
+            "chapter": 13,
+            "verse": 13,
+            "name": "1 Corinthians 13:13",
+            "text": "And now abideth faith, hope, charity, these three; but the greatest of these is charity. "
+        }
+    ]
+}

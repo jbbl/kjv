@@ -1,0 +1,50 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 23,
+    "name": "Psalms 23",
+    "verses": [
+        {
+            "chapter": 23,
+            "verse": 1,
+            "name": "Psalms 23:1",
+            "text": "The Lord is my shepherd; I shall not want."
+        },
+        {
+            "chapter": 23,
+            "verse": 2,
+            "name": "Psalms 23:2",
+            "text": "He maketh me to lie down in green pastures: he leadeth me beside the still waters."
+        },
+        {
+            "chapter": 23,
+            "verse": 3,
+            "name": "Psalms 23:3",
+            "text": "He restoreth my soul: he leadeth me in the paths of righteousness for his name\u2019s sake."
+        },
+        {
+            "chapter": 23,
+            "verse": 4,
+            "name": "Psalms 23:4",
+            "text": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me."
+        },
+        {
+            "chapter": 23,
+            "verse": 5,
+            "name": "Psalms 23:5",
+            "text": "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over."
+        },
+        {
+            "chapter": 23,
+            "verse": 6,
+            "name": "Psalms 23:6",
+            "text": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the Lord for ever. "
+        }
+    ]
+}

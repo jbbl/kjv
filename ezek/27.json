@@ -1,0 +1,230 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 26,
+    "book_name": "Ezekiel",
+    "chapter": 27,
+    "name": "Ezekiel 27",
+    "verses": [
+        {
+            "chapter": 27,
+            "verse": 1,
+            "name": "Ezekiel 27:1",
+            "text": "The word of the Lord came again unto me, saying,"
+        },
+        {
+            "chapter": 27,
+            "verse": 2,
+            "name": "Ezekiel 27:2",
+            "text": "Now, thou son of man, take up a lamentation for Tyrus;"
+        },
+        {
+            "chapter": 27,
+            "verse": 3,
+            "name": "Ezekiel 27:3",
+            "text": "And say unto Tyrus, O thou that art situate at the entry of the sea, which art a merchant of the people for many isles, Thus saith the Lord God; O Tyrus, thou hast said, I am of perfect beauty."
+        },
+        {
+            "chapter": 27,
+            "verse": 4,
+            "name": "Ezekiel 27:4",
+            "text": "Thy borders are in the midst of the seas, thy builders have perfected thy beauty."
+        },
+        {
+            "chapter": 27,
+            "verse": 5,
+            "name": "Ezekiel 27:5",
+            "text": "They have made all thy ship boards of fir trees of Senir: they have taken cedars from Lebanon to make masts for thee."
+        },
+        {
+            "chapter": 27,
+            "verse": 6,
+            "name": "Ezekiel 27:6",
+            "text": "Of the oaks of Bashan have they made thine oars; the company of the Ashurites have made thy benches of ivory, brought out of the isles of Chittim."
+        },
+        {
+            "chapter": 27,
+            "verse": 7,
+            "name": "Ezekiel 27:7",
+            "text": "Fine linen with broidered work from Egypt was that which thou spreadest forth to be thy sail; blue and purple from the isles of Elishah was that which covered thee."
+        },
+        {
+            "chapter": 27,
+            "verse": 8,
+            "name": "Ezekiel 27:8",
+            "text": "The inhabitants of Zidon and Arvad were thy mariners: thy wise men, O Tyrus, that were in thee, were thy pilots."
+        },
+        {
+            "chapter": 27,
+            "verse": 9,
+            "name": "Ezekiel 27:9",
+            "text": "The ancients of Gebal and the wise men thereof were in thee thy calkers: all the ships of the sea with their mariners were in thee to occupy thy merchandise."
+        },
+        {
+            "chapter": 27,
+            "verse": 10,
+            "name": "Ezekiel 27:10",
+            "text": "They of Persia and of Lud and of Phut were in thine army, thy men of war: they hanged the shield and helmet in thee; they set forth thy comeliness."
+        },
+        {
+            "chapter": 27,
+            "verse": 11,
+            "name": "Ezekiel 27:11",
+            "text": "The men of Arvad with thine army were upon thy walls round about, and the Gammadims were in thy towers: they hanged their shields upon thy walls round about; they have made thy beauty perfect."
+        },
+        {
+            "chapter": 27,
+            "verse": 12,
+            "name": "Ezekiel 27:12",
+            "text": "Tarshish was thy merchant by reason of the multitude of all kind of riches; with silver, iron, tin, and lead, they traded in thy fairs."
+        },
+        {
+            "chapter": 27,
+            "verse": 13,
+            "name": "Ezekiel 27:13",
+            "text": "Javan, Tubal, and Meshech, they were thy merchants: they traded the persons of men and vessels of brass in thy market."
+        },
+        {
+            "chapter": 27,
+            "verse": 14,
+            "name": "Ezekiel 27:14",
+            "text": "They of the house of Togarmah traded in thy fairs with horses and horsemen and mules."
+        },
+        {
+            "chapter": 27,
+            "verse": 15,
+            "name": "Ezekiel 27:15",
+            "text": "The men of Dedan were thy merchants; many isles were the merchandise of thine hand: they brought thee for a present horns of ivory and ebony."
+        },
+        {
+            "chapter": 27,
+            "verse": 16,
+            "name": "Ezekiel 27:16",
+            "text": "Syria was thy merchant by reason of the multitude of the wares of thy making: they occupied in thy fairs with emeralds, purple, and broidered work, and fine linen, and coral, and agate."
+        },
+        {
+            "chapter": 27,
+            "verse": 17,
+            "name": "Ezekiel 27:17",
+            "text": "Judah, and the land of Israel, they were thy merchants: they traded in thy market wheat of Minnith, and Pannag, and honey, and oil, and balm."
+        },
+        {
+            "chapter": 27,
+            "verse": 18,
+            "name": "Ezekiel 27:18",
+            "text": "Damascus was thy merchant in the multitude of the wares of thy making, for the multitude of all riches; in the wine of Helbon, and white wool."
+        },
+        {
+            "chapter": 27,
+            "verse": 19,
+            "name": "Ezekiel 27:19",
+            "text": "Dan also and Javan going to and fro occupied in thy fairs: bright iron, cassia, and calamus, were in thy market."
+        },
+        {
+            "chapter": 27,
+            "verse": 20,
+            "name": "Ezekiel 27:20",
+            "text": "Dedan was thy merchant in precious clothes for chariots."
+        },
+        {
+            "chapter": 27,
+            "verse": 21,
+            "name": "Ezekiel 27:21",
+            "text": "Arabia, and all the princes of Kedar, they occupied with thee in lambs, and rams, and goats: in these were they thy merchants."
+        },
+        {
+            "chapter": 27,
+            "verse": 22,
+            "name": "Ezekiel 27:22",
+            "text": "The merchants of Sheba and Raamah, they were thy merchants: they occupied in thy fairs with chief of all spices, and with all precious stones, and gold."
+        },
+        {
+            "chapter": 27,
+            "verse": 23,
+            "name": "Ezekiel 27:23",
+            "text": "Haran, and Canneh, and Eden, the merchants of Sheba, Asshur, and Chilmad, were thy merchants."
+        },
+        {
+            "chapter": 27,
+            "verse": 24,
+            "name": "Ezekiel 27:24",
+            "text": "These were thy merchants in all sorts of things, in blue clothes, and broidered work, and in chests of rich apparel, bound with cords, and made of cedar, among thy merchandise."
+        },
+        {
+            "chapter": 27,
+            "verse": 25,
+            "name": "Ezekiel 27:25",
+            "text": "The ships of Tarshish did sing of thee in thy market: and thou wast replenished, and made very glorious in the midst of the seas."
+        },
+        {
+            "chapter": 27,
+            "verse": 26,
+            "name": "Ezekiel 27:26",
+            "text": "Thy rowers have brought thee into great waters: the east wind hath broken thee in the midst of the seas."
+        },
+        {
+            "chapter": 27,
+            "verse": 27,
+            "name": "Ezekiel 27:27",
+            "text": "Thy riches, and thy fairs, thy merchandise, thy mariners, and thy pilots, thy calkers, and the occupiers of thy merchandise, and all thy men of war, that are in thee, and in all thy company which is in the midst of thee, shall fall into the midst of the seas in the day of thy ruin."
+        },
+        {
+            "chapter": 27,
+            "verse": 28,
+            "name": "Ezekiel 27:28",
+            "text": "The suburbs shall shake at the sound of the cry of thy pilots."
+        },
+        {
+            "chapter": 27,
+            "verse": 29,
+            "name": "Ezekiel 27:29",
+            "text": "And all that handle the oar, the mariners, and all the pilots of the sea, shall come down from their ships, they shall stand upon the land;"
+        },
+        {
+            "chapter": 27,
+            "verse": 30,
+            "name": "Ezekiel 27:30",
+            "text": "And shall cause their voice to be heard against thee, and shall cry bitterly, and shall cast up dust upon their heads, they shall wallow themselves in the ashes:"
+        },
+        {
+            "chapter": 27,
+            "verse": 31,
+            "name": "Ezekiel 27:31",
+            "text": "And they shall make themselves utterly bald for thee, and gird them with sackcloth, and they shall weep for thee with bitterness of heart and bitter wailing."
+        },
+        {
+            "chapter": 27,
+            "verse": 32,
+            "name": "Ezekiel 27:32",
+            "text": "And in their wailing they shall take up a lamentation for thee, and lament over thee, saying, What city is like Tyrus, like the destroyed in the midst of the sea?"
+        },
+        {
+            "chapter": 27,
+            "verse": 33,
+            "name": "Ezekiel 27:33",
+            "text": "When thy wares went forth out of the seas, thou filledst many people; thou didst enrich the kings of the earth with the multitude of thy riches and of thy merchandise."
+        },
+        {
+            "chapter": 27,
+            "verse": 34,
+            "name": "Ezekiel 27:34",
+            "text": "In the time when thou shalt be broken by the seas in the depths of the waters thy merchandise and all thy company in the midst of thee shall fall."
+        },
+        {
+            "chapter": 27,
+            "verse": 35,
+            "name": "Ezekiel 27:35",
+            "text": "All the inhabitants of the isles shall be astonished at thee, and their kings shall be sore afraid, they shall be troubled in their countenance."
+        },
+        {
+            "chapter": 27,
+            "verse": 36,
+            "name": "Ezekiel 27:36",
+            "text": "The merchants among the people shall hiss at thee; thou shalt be a terror, and never shalt be any more. "
+        }
+    ]
+}

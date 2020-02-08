@@ -1,0 +1,68 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 149,
+    "name": "Psalms 149",
+    "verses": [
+        {
+            "chapter": 149,
+            "verse": 1,
+            "name": "Psalms 149:1",
+            "text": "Praise ye the Lord. Sing unto the Lord a new song, and his praise in the congregation of saints."
+        },
+        {
+            "chapter": 149,
+            "verse": 2,
+            "name": "Psalms 149:2",
+            "text": "Let Israel rejoice in him that made him: let the children of Zion be joyful in their King."
+        },
+        {
+            "chapter": 149,
+            "verse": 3,
+            "name": "Psalms 149:3",
+            "text": "Let them praise his name in the dance: let them sing praises unto him with the timbrel and harp."
+        },
+        {
+            "chapter": 149,
+            "verse": 4,
+            "name": "Psalms 149:4",
+            "text": "For the Lord taketh pleasure in his people: he will beautify the meek with salvation."
+        },
+        {
+            "chapter": 149,
+            "verse": 5,
+            "name": "Psalms 149:5",
+            "text": "Let the saints be joyful in glory: let them sing aloud upon their beds."
+        },
+        {
+            "chapter": 149,
+            "verse": 6,
+            "name": "Psalms 149:6",
+            "text": "Let the high praises of God be in their mouth, and a twoedged sword in their hand;"
+        },
+        {
+            "chapter": 149,
+            "verse": 7,
+            "name": "Psalms 149:7",
+            "text": "To execute vengeance upon the heathen, and punishments upon the people;"
+        },
+        {
+            "chapter": 149,
+            "verse": 8,
+            "name": "Psalms 149:8",
+            "text": "To bind their kings with chains, and their nobles with fetters of iron;"
+        },
+        {
+            "chapter": 149,
+            "verse": 9,
+            "name": "Psalms 149:9",
+            "text": "To execute upon them the judgment written: this honour have all his saints. Praise ye the Lord. "
+        }
+    ]
+}

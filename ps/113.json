@@ -1,0 +1,68 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 113,
+    "name": "Psalms 113",
+    "verses": [
+        {
+            "chapter": 113,
+            "verse": 1,
+            "name": "Psalms 113:1",
+            "text": "Praise ye the Lord. Praise, O ye servants of the Lord, praise the name of the Lord."
+        },
+        {
+            "chapter": 113,
+            "verse": 2,
+            "name": "Psalms 113:2",
+            "text": "Blessed be the name of the Lord from this time forth and for evermore."
+        },
+        {
+            "chapter": 113,
+            "verse": 3,
+            "name": "Psalms 113:3",
+            "text": "From the rising of the sun unto the going down of the same the Lord\u2019s name is to be praised."
+        },
+        {
+            "chapter": 113,
+            "verse": 4,
+            "name": "Psalms 113:4",
+            "text": "The Lord is high above all nations, and his glory above the heavens."
+        },
+        {
+            "chapter": 113,
+            "verse": 5,
+            "name": "Psalms 113:5",
+            "text": "Who is like unto the Lord our God, who dwelleth on high,"
+        },
+        {
+            "chapter": 113,
+            "verse": 6,
+            "name": "Psalms 113:6",
+            "text": "Who humbleth himself to behold the things that are in heaven, and in the earth!"
+        },
+        {
+            "chapter": 113,
+            "verse": 7,
+            "name": "Psalms 113:7",
+            "text": "He raiseth up the poor out of the dust, and lifteth the needy out of the dunghill;"
+        },
+        {
+            "chapter": 113,
+            "verse": 8,
+            "name": "Psalms 113:8",
+            "text": "That he may set him with princes, even with the princes of his people."
+        },
+        {
+            "chapter": 113,
+            "verse": 9,
+            "name": "Psalms 113:9",
+            "text": "He maketh the barren woman to keep house, and to be a joyful mother of children. Praise ye the Lord. "
+        }
+    ]
+}

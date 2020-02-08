@@ -1,0 +1,68 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 8,
+    "name": "Psalms 8",
+    "verses": [
+        {
+            "chapter": 8,
+            "verse": 1,
+            "name": "Psalms 8:1",
+            "text": "O Lord our Lord, how excellent is thy name in all the earth! who hast set thy glory above the heavens."
+        },
+        {
+            "chapter": 8,
+            "verse": 2,
+            "name": "Psalms 8:2",
+            "text": "Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou mightest still the enemy and the avenger."
+        },
+        {
+            "chapter": 8,
+            "verse": 3,
+            "name": "Psalms 8:3",
+            "text": "When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained;"
+        },
+        {
+            "chapter": 8,
+            "verse": 4,
+            "name": "Psalms 8:4",
+            "text": "What is man, that thou art mindful of him? and the son of man, that thou visitest him?"
+        },
+        {
+            "chapter": 8,
+            "verse": 5,
+            "name": "Psalms 8:5",
+            "text": "For thou hast made him a little lower than the angels, and hast crowned him with glory and honour."
+        },
+        {
+            "chapter": 8,
+            "verse": 6,
+            "name": "Psalms 8:6",
+            "text": "Thou madest him to have dominion over the works of thy hands; thou hast put all things under his feet:"
+        },
+        {
+            "chapter": 8,
+            "verse": 7,
+            "name": "Psalms 8:7",
+            "text": "All sheep and oxen, yea, and the beasts of the field;"
+        },
+        {
+            "chapter": 8,
+            "verse": 8,
+            "name": "Psalms 8:8",
+            "text": "The fowl of the air, and the fish of the sea, and whatsoever passeth through the paths of the seas."
+        },
+        {
+            "chapter": 8,
+            "verse": 9,
+            "name": "Psalms 8:9",
+            "text": "O Lord our Lord, how excellent is thy name in all the earth! "
+        }
+    ]
+}

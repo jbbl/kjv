@@ -1,0 +1,62 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 124,
+    "name": "Psalms 124",
+    "verses": [
+        {
+            "chapter": 124,
+            "verse": 1,
+            "name": "Psalms 124:1",
+            "text": "If it had not been the Lord who was on our side, now may Israel say;"
+        },
+        {
+            "chapter": 124,
+            "verse": 2,
+            "name": "Psalms 124:2",
+            "text": "If it had not been the Lord who was on our side, when men rose up against us:"
+        },
+        {
+            "chapter": 124,
+            "verse": 3,
+            "name": "Psalms 124:3",
+            "text": "Then they had swallowed us up quick, when their wrath was kindled against us:"
+        },
+        {
+            "chapter": 124,
+            "verse": 4,
+            "name": "Psalms 124:4",
+            "text": "Then the waters had overwhelmed us, the stream had gone over our soul:"
+        },
+        {
+            "chapter": 124,
+            "verse": 5,
+            "name": "Psalms 124:5",
+            "text": "Then the proud waters had gone over our soul."
+        },
+        {
+            "chapter": 124,
+            "verse": 6,
+            "name": "Psalms 124:6",
+            "text": "Blessed be the Lord, who hath not given us as a prey to their teeth."
+        },
+        {
+            "chapter": 124,
+            "verse": 7,
+            "name": "Psalms 124:7",
+            "text": "Our soul is escaped as a bird out of the snare of the fowlers: the snare is broken, and we are escaped."
+        },
+        {
+            "chapter": 124,
+            "verse": 8,
+            "name": "Psalms 124:8",
+            "text": "Our help is in the name of the Lord, who made heaven and earth. "
+        }
+    ]
+}

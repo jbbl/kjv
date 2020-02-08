@@ -1,0 +1,44 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 93,
+    "name": "Psalms 93",
+    "verses": [
+        {
+            "chapter": 93,
+            "verse": 1,
+            "name": "Psalms 93:1",
+            "text": "The Lord reigneth, he is clothed with majesty; the Lord is clothed with strength, wherewith he hath girded himself: the world also is stablished, that it cannot be moved."
+        },
+        {
+            "chapter": 93,
+            "verse": 2,
+            "name": "Psalms 93:2",
+            "text": "Thy throne is established of old: thou art from everlasting."
+        },
+        {
+            "chapter": 93,
+            "verse": 3,
+            "name": "Psalms 93:3",
+            "text": "The floods have lifted up, O Lord, the floods have lifted up their voice; the floods lift up their waves."
+        },
+        {
+            "chapter": 93,
+            "verse": 4,
+            "name": "Psalms 93:4",
+            "text": "The Lord on high is mightier than the noise of many waters, yea, than the mighty waves of the sea."
+        },
+        {
+            "chapter": 93,
+            "verse": 5,
+            "name": "Psalms 93:5",
+            "text": "Thy testimonies are very sure: holiness becometh thine house, O Lord, for ever. "
+        }
+    ]
+}

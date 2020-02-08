@@ -1,0 +1,56 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 142,
+    "name": "Psalms 142",
+    "verses": [
+        {
+            "chapter": 142,
+            "verse": 1,
+            "name": "Psalms 142:1",
+            "text": "I cried unto the Lord with my voice; with my voice unto the Lord did I make my supplication."
+        },
+        {
+            "chapter": 142,
+            "verse": 2,
+            "name": "Psalms 142:2",
+            "text": "I poured out my complaint before him; I shewed before him my trouble."
+        },
+        {
+            "chapter": 142,
+            "verse": 3,
+            "name": "Psalms 142:3",
+            "text": "When my spirit was overwhelmed within me, then thou knewest my path. In the way wherein I walked have they privily laid a snare for me."
+        },
+        {
+            "chapter": 142,
+            "verse": 4,
+            "name": "Psalms 142:4",
+            "text": "I looked on my right hand, and beheld, but there was no man that would know me: refuge failed me; no man cared for my soul."
+        },
+        {
+            "chapter": 142,
+            "verse": 5,
+            "name": "Psalms 142:5",
+            "text": "I cried unto thee, O Lord: I said, Thou art my refuge and my portion in the land of the living."
+        },
+        {
+            "chapter": 142,
+            "verse": 6,
+            "name": "Psalms 142:6",
+            "text": "Attend unto my cry; for I am brought very low: deliver me from my persecutors; for they are stronger than I."
+        },
+        {
+            "chapter": 142,
+            "verse": 7,
+            "name": "Psalms 142:7",
+            "text": "Bring my soul out of prison, that I may praise thy name: the righteous shall compass me about; for thou shalt deal bountifully with me. "
+        }
+    ]
+}

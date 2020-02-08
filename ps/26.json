@@ -1,0 +1,86 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 26,
+    "name": "Psalms 26",
+    "verses": [
+        {
+            "chapter": 26,
+            "verse": 1,
+            "name": "Psalms 26:1",
+            "text": "Judge me, O Lord; for I have walked in mine integrity: I have trusted also in the Lord; therefore I shall not slide."
+        },
+        {
+            "chapter": 26,
+            "verse": 2,
+            "name": "Psalms 26:2",
+            "text": "Examine me, O Lord, and prove me; try my reins and my heart."
+        },
+        {
+            "chapter": 26,
+            "verse": 3,
+            "name": "Psalms 26:3",
+            "text": "For thy lovingkindness is before mine eyes: and I have walked in thy truth."
+        },
+        {
+            "chapter": 26,
+            "verse": 4,
+            "name": "Psalms 26:4",
+            "text": "I have not sat with vain persons, neither will I go in with dissemblers."
+        },
+        {
+            "chapter": 26,
+            "verse": 5,
+            "name": "Psalms 26:5",
+            "text": "I have hated the congregation of evil doers; and will not sit with the wicked."
+        },
+        {
+            "chapter": 26,
+            "verse": 6,
+            "name": "Psalms 26:6",
+            "text": "I will wash mine hands in innocency: so will I compass thine altar, O Lord:"
+        },
+        {
+            "chapter": 26,
+            "verse": 7,
+            "name": "Psalms 26:7",
+            "text": "That I may publish with the voice of thanksgiving, and tell of all thy wondrous works."
+        },
+        {
+            "chapter": 26,
+            "verse": 8,
+            "name": "Psalms 26:8",
+            "text": "Lord, I have loved the habitation of thy house, and the place where thine honour dwelleth."
+        },
+        {
+            "chapter": 26,
+            "verse": 9,
+            "name": "Psalms 26:9",
+            "text": "Gather not my soul with sinners, nor my life with bloody men:"
+        },
+        {
+            "chapter": 26,
+            "verse": 10,
+            "name": "Psalms 26:10",
+            "text": "In whose hands is mischief, and their right hand is full of bribes."
+        },
+        {
+            "chapter": 26,
+            "verse": 11,
+            "name": "Psalms 26:11",
+            "text": "But as for me, I will walk in mine integrity: redeem me, and be merciful unto me."
+        },
+        {
+            "chapter": 26,
+            "verse": 12,
+            "name": "Psalms 26:12",
+            "text": "My foot standeth in an even place: in the congregations will I bless the Lord. "
+        }
+    ]
+}

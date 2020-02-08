@@ -1,0 +1,62 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 130,
+    "name": "Psalms 130",
+    "verses": [
+        {
+            "chapter": 130,
+            "verse": 1,
+            "name": "Psalms 130:1",
+            "text": "Out of the depths have I cried unto thee, O Lord."
+        },
+        {
+            "chapter": 130,
+            "verse": 2,
+            "name": "Psalms 130:2",
+            "text": "Lord, hear my voice: let thine ears be attentive to the voice of my supplications."
+        },
+        {
+            "chapter": 130,
+            "verse": 3,
+            "name": "Psalms 130:3",
+            "text": "If thou, Lord, shouldest mark iniquities, O Lord, who shall stand?"
+        },
+        {
+            "chapter": 130,
+            "verse": 4,
+            "name": "Psalms 130:4",
+            "text": "But there is forgiveness with thee, that thou mayest be feared."
+        },
+        {
+            "chapter": 130,
+            "verse": 5,
+            "name": "Psalms 130:5",
+            "text": "I wait for the Lord, my soul doth wait, and in his word do I hope."
+        },
+        {
+            "chapter": 130,
+            "verse": 6,
+            "name": "Psalms 130:6",
+            "text": "My soul waiteth for the Lord more than they that watch for the morning: I say, more than they that watch for the morning."
+        },
+        {
+            "chapter": 130,
+            "verse": 7,
+            "name": "Psalms 130:7",
+            "text": "Let Israel hope in the Lord: for with the Lord there is mercy, and with him is plenteous redemption."
+        },
+        {
+            "chapter": 130,
+            "verse": 8,
+            "name": "Psalms 130:8",
+            "text": "And he shall redeem Israel from all his iniquities. "
+        }
+    ]
+}

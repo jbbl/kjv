@@ -1,0 +1,74 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 112,
+    "name": "Psalms 112",
+    "verses": [
+        {
+            "chapter": 112,
+            "verse": 1,
+            "name": "Psalms 112:1",
+            "text": "Praise ye the Lord. Blessed is the man that feareth the Lord, that delighteth greatly in his commandments."
+        },
+        {
+            "chapter": 112,
+            "verse": 2,
+            "name": "Psalms 112:2",
+            "text": "His seed shall be mighty upon earth: the generation of the upright shall be blessed."
+        },
+        {
+            "chapter": 112,
+            "verse": 3,
+            "name": "Psalms 112:3",
+            "text": "Wealth and riches shall be in his house: and his righteousness endureth for ever."
+        },
+        {
+            "chapter": 112,
+            "verse": 4,
+            "name": "Psalms 112:4",
+            "text": "Unto the upright there ariseth light in the darkness: he is gracious, and full of compassion, and righteous."
+        },
+        {
+            "chapter": 112,
+            "verse": 5,
+            "name": "Psalms 112:5",
+            "text": "A good man sheweth favour, and lendeth: he will guide his affairs with discretion."
+        },
+        {
+            "chapter": 112,
+            "verse": 6,
+            "name": "Psalms 112:6",
+            "text": "Surely he shall not be moved for ever: the righteous shall be in everlasting remembrance."
+        },
+        {
+            "chapter": 112,
+            "verse": 7,
+            "name": "Psalms 112:7",
+            "text": "He shall not be afraid of evil tidings: his heart is fixed, trusting in the Lord."
+        },
+        {
+            "chapter": 112,
+            "verse": 8,
+            "name": "Psalms 112:8",
+            "text": "His heart is established, he shall not be afraid, until he see his desire upon his enemies."
+        },
+        {
+            "chapter": 112,
+            "verse": 9,
+            "name": "Psalms 112:9",
+            "text": "He hath dispersed, he hath given to the poor; his righteousness endureth for ever; his horn shall be exalted with honour."
+        },
+        {
+            "chapter": 112,
+            "verse": 10,
+            "name": "Psalms 112:10",
+            "text": "The wicked shall see it, and be grieved; he shall gnash with his teeth, and melt away: the desire of the wicked shall perish. "
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 98,
+    "name": "Psalms 98",
+    "verses": [
+        {
+            "chapter": 98,
+            "verse": 1,
+            "name": "Psalms 98:1",
+            "text": "O sing unto the Lord a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory."
+        },
+        {
+            "chapter": 98,
+            "verse": 2,
+            "name": "Psalms 98:2",
+            "text": "The Lord hath made known his salvation: his righteousness hath he openly shewed in the sight of the heathen."
+        },
+        {
+            "chapter": 98,
+            "verse": 3,
+            "name": "Psalms 98:3",
+            "text": "He hath remembered his mercy and his truth toward the house of Israel: all the ends of the earth have seen the salvation of our God."
+        },
+        {
+            "chapter": 98,
+            "verse": 4,
+            "name": "Psalms 98:4",
+            "text": "Make a joyful noise unto the Lord, all the earth: make a loud noise, and rejoice, and sing praise."
+        },
+        {
+            "chapter": 98,
+            "verse": 5,
+            "name": "Psalms 98:5",
+            "text": "Sing unto the Lord with the harp; with the harp, and the voice of a psalm."
+        },
+        {
+            "chapter": 98,
+            "verse": 6,
+            "name": "Psalms 98:6",
+            "text": "With trumpets and sound of cornet make a joyful noise before the Lord, the King."
+        },
+        {
+            "chapter": 98,
+            "verse": 7,
+            "name": "Psalms 98:7",
+            "text": "Let the sea roar, and the fulness thereof; the world, and they that dwell therein."
+        },
+        {
+            "chapter": 98,
+            "verse": 8,
+            "name": "Psalms 98:8",
+            "text": "Let the floods clap their hands: let the hills be joyful together"
+        },
+        {
+            "chapter": 98,
+            "verse": 9,
+            "name": "Psalms 98:9",
+            "text": "Before the Lord; for he cometh to judge the earth: with righteousness shall he judge the world, and the people with equity. "
+        }
+    ]
+}

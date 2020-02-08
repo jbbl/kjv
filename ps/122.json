@@ -1,0 +1,68 @@
+{
+    "translation": "King James Version",
+    "abbreviation": "kjv",
+    "lang": "en",
+    "language": "English",
+    "direction": "LTR",
+    "encoding": "UTF-8",
+    "book_nr": 19,
+    "book_name": "Psalms",
+    "chapter": 122,
+    "name": "Psalms 122",
+    "verses": [
+        {
+            "chapter": 122,
+            "verse": 1,
+            "name": "Psalms 122:1",
+            "text": "I was glad when they said unto me, Let us go into the house of the Lord."
+        },
+        {
+            "chapter": 122,
+            "verse": 2,
+            "name": "Psalms 122:2",
+            "text": "Our feet shall stand within thy gates, O Jerusalem."
+        },
+        {
+            "chapter": 122,
+            "verse": 3,
+            "name": "Psalms 122:3",
+            "text": "Jerusalem is builded as a city that is compact together:"
+        },
+        {
+            "chapter": 122,
+            "verse": 4,
+            "name": "Psalms 122:4",
+            "text": "Whither the tribes go up, the tribes of the Lord, unto the testimony of Israel, to give thanks unto the name of the Lord."
+        },
+        {
+            "chapter": 122,
+            "verse": 5,
+            "name": "Psalms 122:5",
+            "text": "For there are set thrones of judgment, the thrones of the house of David."
+        },
+        {
+            "chapter": 122,
+            "verse": 6,
+            "name": "Psalms 122:6",
+            "text": "Pray for the peace of Jerusalem: they shall prosper that love thee."
+        },
+        {
+            "chapter": 122,
+            "verse": 7,
+            "name": "Psalms 122:7",
+            "text": "Peace be within thy walls, and prosperity within thy palaces."
+        },
+        {
+            "chapter": 122,
+            "verse": 8,
+            "name": "Psalms 122:8",
+            "text": "For my brethren and companions\u2019 sakes, I will now say, Peace be within thee."
+        },
+        {
+            "chapter": 122,
+            "verse": 9,
+            "name": "Psalms 122:9",
+            "text": "Because of the house of the Lord our God I will seek thy good. "
+        }
+    ]
+}
