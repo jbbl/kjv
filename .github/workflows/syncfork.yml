@@ -13,6 +13,6 @@ jobs:
     - uses: TG908/fork-sync@v1.1.4
       with:
         github_token: ${{ secrets.SYNC_FORK }}
-        owner: a1ip
+        owner: jsonbible
         base: master
         head: master
